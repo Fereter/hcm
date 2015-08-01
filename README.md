@@ -1,0 +1,2 @@
+# hcm
+Haskell CrackMe
